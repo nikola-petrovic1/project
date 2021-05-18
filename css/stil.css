@@ -1,5 +1,7 @@
-@media screen and (max-width: px){
-
+@media screen and (max-width: 339px){
+    .remove {
+        display: none;
+    }
 }
 
 .pictures {
